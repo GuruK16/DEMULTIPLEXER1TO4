@@ -5,6 +5,7 @@ To simulate and synthesis DEMULTIPLEXER 1 TO 4 using Vivado software.
 
 Software Required:
 
+Vivado 2023.1 software.
 ![image](https://github.com/GuruK16/DEMULTIPLEXER1TO4/assets/159005155/68a58868-323d-4105-9516-84b7ff586265)
 
 Program ;
