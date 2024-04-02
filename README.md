@@ -33,6 +33,7 @@ module demux(y0,y1,y2,y3,s1,s0,I);
 ![image](https://github.com/RESMIRNAIR/DEMULTIPLEXER1TO4/assets/154305926/e07386db-69b3-4a5f-945f-b38929b801ea)
 
 Output ;
+
 <img width="768" alt="image" src="https://github.com/GuruK16/DEMULTIPLEXER1TO4/assets/159005155/aa5f2e3d-e599-43a9-bc27-88e474929d88">
  
 Result ;
